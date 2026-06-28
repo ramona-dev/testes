@@ -1,0 +1,11 @@
+   v   v   v   v   
+   |   |   |   |   
+---+---+---+---+---   ← 4 cruzamentos, via dupla horizontal
+   |   |   |   |   
+>>>+>>>+>>>+>>>+>>>   ← 4 cruzamentos, mão única →
+   |   |   |   |   
+---+---+---+---+---   ← 4 cruzamentos, via dupla horizontal
+   |   |   |   |   
+>>>+>>>+>>>+>>>+>>>   ← 4 cruzamentos, mão única →
+   |   |   |   |   
+   ^   ^   ^   ^
